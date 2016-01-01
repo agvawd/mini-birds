@@ -1,0 +1,26 @@
+{
+  "name": "mini-birds",
+  "version": "1.0.0",
+  "description": "Bird sight seeing API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agvawd/mini-birds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agvawd/mini-birds/issues"
+  },
+  "homepage": "https://github.com/agvawd/mini-birds#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "mongojs": "^2.2.2"
+  }
+}
